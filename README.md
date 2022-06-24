@@ -1,0 +1,1 @@
+Realização dos desafios propostos no curso de JavaScript da plataforma Curso em Vídeo.
